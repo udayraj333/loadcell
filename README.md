@@ -7,6 +7,9 @@ Connects the following load sensor in given circuit image and for esp 32
 3)connect DT to D4 of ESP32  
 4)connect SCK to D2 of ESP32  
 
+![loadcell_circuit](https://user-images.githubusercontent.com/59831591/232223265-1ad66ebe-3be8-4082-bfdd-a4506f218bad.png)
+
+
 
   
  ![calibrate](https://user-images.githubusercontent.com/59831591/232223155-f33f55d7-9811-491d-a7fa-1bdf44aa5048.png)
