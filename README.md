@@ -8,3 +8,10 @@ Connects the following load sensor in given circuit image and for esp 32
 4)connect SCK to D2 of ESP32  
 
 
+  
+ ![calibrate](https://user-images.githubusercontent.com/59831591/232223155-f33f55d7-9811-491d-a7fa-1bdf44aa5048.png)
+Follow the directions in the terminal window. It asks you to put a known mass onto the load cells and then enter the weight of that item. This process calibrates your scale.   
+
+I used an phone, which is 113 grams.  
+
+Then it starts outputting the current weight value on the scale.   
